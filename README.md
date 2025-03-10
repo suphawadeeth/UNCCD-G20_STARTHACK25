@@ -45,7 +45,7 @@ Use of the data provided  (20%)
 Use of Additional data along with proper storytelling (10%)
 
 ## <p align="center"> Point of Contact: </p>
-Devashree Niraula (dnniraula@unccd.int) , Research and Outreach Specialist, G20  G20 Global Land Initiative, UN Convention to Combat Desertification
+Devashree Niraula (dnniraula@unccd.int) , Research and Outreach Specialist, G20  G20 Global Land Initiative, UN Convention to Combat Desertification and Ebenezer Odoi (eodoi@unccd.int), Consultant, G20  G20 Global Land Initiative, UN Convention to Combat Desertification. 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 DJI Mini 4K Drones and a trip to GLI sponsored international event 
