@@ -4,27 +4,40 @@ Innovating for Sustainable Land Management and Restoration in the Sahel
 
 # <p align="center"> Who are we? </p>
 
-G20 Global Land Initiative, United Nations Convention to Combat Desertification
+G20 Global Land Initiative, United Nations Convention to Combat Desertification. 
+The G20 Global Land Initiative, launched by the United Nations Convention to Combat Desertification (UNCCD), aims to support G20 nations in achieving halting and restoraing of 50% of land degredation by 2040, aligning with Sustainable Development Goal (SDG) 15.3. This initiative focuses on promoting sustainable land management, restoring degraded lands, and addressing desertification and drought through knowledge-sharing, policy development, and financial support. It emphasizes the role of healthy land in climate change mitigation, biodiversity conservation, and food security, while encouraging scientific research, technology transfer, and capacity-building. The initiative also fosters public-private partnerships to mobilize funding and supports local communities, farmers, and indigenous groups to ensure inclusive and sustainable land-use practices. 
+
 ## <p align="center"> Case Introduction: </p>
 The Sahel region, a semi-arid belt stretching across Africa, is a landscape of immense ecological and cultural diversity. However, it is also a region facing profound challenges. Conflicts between farmers and herders, as well as among pastoralist groups, are recurrent and often violent, driven by competition over dwindling natural resources such as land and water. These tensions are further exacerbated by climate change, which has led to prolonged droughts, desertification, and land degradation. As a result, traditional livelihoods are under threat, and communities are increasingly vulnerable to environmental and socio-economic shocks.
 In this context, the role of data and technology becomes crucial. Earth observation and geospatial datasets offer a powerful lens through which we can understand and address these complex issues. By analyzing land cover changes,  vegetation productivity , climate data and population growth and  density, tracking resource availability, and mapping land degradation , we can uncover the underlying drivers of conflict and identify opportunities for sustainable land management and restoration.
 
-What is the current problem?
+**What is the current problem?**
 The hackathon invites participants to harness the power of global Earth observation data to tackle these pressing challenges . Through collaborative innovation, participants will explore solutions that promote land restoration, mitigate climate impacts, and foster peace and resilience among communities in the Sahel. By combining environmental science, technology, and social insight, this hackathon  aims to contribute to a more sustainable and equitable future for the region and beyond. Together, we can turn data into action and create meaningful change for people and the planet.
-What are the key trends and primary drivers of land cover changes over the past two decades? What are the hotspots of change in vegetation productivity, and how has urban expansion influenced these patterns?
-How can Earth observation data—combined with scientific insights, technological innovations, and social understanding—help address land and water conflicts, identify land degradation, uncover restoration opportunities, and inform sustainable land management strategies? Furthermore, how can this integrated approach bolster global initiatives like the G20 Global Land Restoration Initiative, empower local communities, and provide a replicable framework for other regions facing comparable challenges?
-How can dashboard solutions be leveraged to visualize land cover changes and assess their impact on ecosystem health, helping stakeholders make informed decisions?
 
+**Data provided for the hack**
+1. [Moderate Resolution Imaging Spectroradiometer (MODIS) Land Cover Type (MCD12Q1) (20 years)](https://lpdaac.usgs.gov/products/mcd12q1v006/): A comprehensive dataset of land cover changes over the past two decades, allowing participants to identify trends in deforestation, urban expansion, water body outlines/quality, and desertification
+2. Climate Precipitation Data from CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations
+ ( 20 years): Data on rainfall patterns to understand how changing climate conditions contribute to land degradation, water quality issues, and agricultural challenges.
+3. Administrative Boundaries: Geospatial data on national and sub-national boundaries to help localize trends and identify regions most affected by land-use changes.
+4. WorldPop gridded population estimate: Information on population density to assess the relationship between human activity and environmental degradation
+5. Road Network Data: Insights into the role of infrastructure development in driving deforestation and changes in land use.
 
 ## <p align="center"> Expected Outcome: </p>
 
-What is the expected final product?
-By the end of the hackathon, participants will produce a range of actionable insights and tools that can be used to address global land cover challenges. The key deliverables include:
-1.	Dashboard: An interactive, data-driven platform that visualizes key trends in population density, land cover change, annual rainfall, and vegetation productivity over the past two decades. The dashboard should be designed to help stakeholders visualize and comprehend the spatial and temporal changes that have occurred over the past decade, as well as the magnitude of these changes across the region.
-2.	Developing advanced printing tools and analytical features that empower users to compare datasets, extract time-series values, and generate detailed reports for specific areas within the region. These tools will facilitate data-driven decision-making by providing customizable outputs and enabling in-depth analysis of trends and patterns over time
-3.	District Profile: The dashboard should include functionality for users to generate a District Profile, offering a comprehensive and detailed analysis of land cover changes at the district level. These profiles will highlight key trends and patterns observed over the past decade, providing critical insights into the extent and nature of changes. By visualizing spatial and temporal data, the profiles will serve as a valuable resource for understanding historical land cover dynamics and informing future restoration and conservation initiatives. This feature will empower stakeholders to make data-driven decisions tailored to specific districts within the region.
+**What are we trying to understand in this hack case**
+1. What are the key trends and primary drivers of land cover changes over the past two decades?
+2. What are the hotspots of change in vegetation productivity, and how has urban expansion influenced these patterns?
+3. How can Earth observation data—combined with scientific insights, technological innovations, and social understanding—help address land and water conflicts, identify land degradation, uncover restoration opportunities, and inform sustainable land management strategies? Furthermore, how can this integrated approach bolster global initiatives like the G20 Global Land Restoration Initiative, empower local communities, and provide a replicable framework for other regions facing comparable challenges?
+4. How can dashboard solutions be leveraged to visualize land cover changes and assess their impact on ecosystem health, helping stakeholders make informed decisions?
 
-The hackathon offers an opportunity for participants to contribute to global land restoration efforts using cutting-edge data science and environmental research. Their insights could inform policymaking, support sustainable land management, and drive positive environmental change on a global scale.
+**What is the expected final product?**
+The hackathon offers an opportunity for participants to contribute to global land restoration efforts using cutting-edge data science and environmental research. Their insights could support sustainable land management, and drive positive environmental change on a global scale. *The hackers will choose a stakeholder of their choice to pitch a scalable solution to restore land in the Sahel*. These stakeholders can be policymakers, private institutes, insurance agencies, public sector, reserchers or/and communities. The product is to be userfriendly, easy to understand. 
+
+By the end of the hackathon, participants will produce a range of actionable insights and tools that can be used to address global land cover challenges. The key deliverables include:
+1.	*Dashboard: An interactive, data-driven platform that visualizes key trends in population density, land cover change, annual rainfall, and vegetation productivity over the past two decades. The dashboard should be designed to help stakeholders visualize and comprehend the spatial and temporal changes that have occurred over the past decade, as well as the magnitude of these changes across the region.*
+2.	*Developing advanced printing tools and analytical features that empower users to compare datasets, extract time-series values, and generate detailed reports for specific areas within the region. These tools will facilitate data-driven decision-making by providing customizable outputs and enabling in-depth analysis of trends and patterns over time*
+3.	*District Profile: The dashboard should include functionality for users to generate a District Profile, offering a comprehensive and detailed analysis of land cover changes at the district level. These profiles will highlight key trends and patterns observed over the past decade, providing critical insights into the extent and nature of changes. By visualizing spatial and temporal data, the profiles will serve as a valuable resource for understanding historical land cover dynamics and informing future restoration and conservation initiatives. This feature will empower stakeholders to make data-driven decisions tailored to specific districts within the region.*
+
 
 
 
