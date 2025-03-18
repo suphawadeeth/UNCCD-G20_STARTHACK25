@@ -14,7 +14,7 @@ In this context, the role of data and technology becomes crucial. Earth observat
 **What is the current problem?**
 The hackathon invites participants to harness the power of global Earth observation data to tackle these pressing challenges . Through collaborative innovation, participants will explore solutions that promote land restoration, mitigate climate impacts, and foster peace and resilience among communities in the Sahel. By combining environmental science, technology, and social insight, this hackathon  aims to contribute to a more sustainable and equitable future for the region and beyond. Together, we can turn data into action and create meaningful change for people and the planet.
 
-**Data provided for the hack**
+## <p align="center"> Data Provided for the Hack: </p>
 1. [Moderate Resolution Imaging Spectroradiometer (MODIS) Land Cover Type (MCD12Q1) (20 years)](https://lpdaac.usgs.gov/products/mcd12q1v006/): A comprehensive dataset of land cover changes over the past two decades, allowing participants to identify trends in deforestation, urban expansion, water body outlines/quality, and desertification
 2. [Climate Precipitation Data from CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations
  ( 20 years)](https://www.chc.ucsb.edu/data/chirps): Data on rainfall patterns to understand how changing climate conditions contribute to land degradation, water quality issues, and agricultural challenges.
@@ -59,6 +59,16 @@ Judgment criteria are important for the participants to understand the focus of 
 3. User friendly  (20%)
 4. Use of the data provided  (20%)
 5. Use of Additional data along with proper storytelling (20%)
+
+## <p align="center"> Expected End Presentation of the Prototype : </p>
+Each team will be given 10 mins where the time is divided as following
+1. 7 mins pitch of the case with a demo of the prototype. This 7 mins will include introduction to the: 
+ a. Talk about the end users targated.
+ b. Show how you have used the data sets along with the methodology
+ c. Explain the story line 
+ d. Show the prototype 
+2. 5 mins discussion session 
+
 
 ## <p align="center"> Point of Contact: </p>
 Devashree Niraula (dnniraula@unccd.int) , Research and Outreach Specialist, G20  G20 Global Land Initiative, UN Convention to Combat Desertification and Ebenezer Odoi (eodoi@unccd.int), Consultant, G20  G20 Global Land Initiative, UN Convention to Combat Desertification. 
