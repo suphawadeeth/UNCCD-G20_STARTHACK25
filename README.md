@@ -16,11 +16,14 @@ The hackathon invites participants to harness the power of global Earth observat
 
 **Data provided for the hack**
 1. [Moderate Resolution Imaging Spectroradiometer (MODIS) Land Cover Type (MCD12Q1) (20 years)](https://lpdaac.usgs.gov/products/mcd12q1v006/): A comprehensive dataset of land cover changes over the past two decades, allowing participants to identify trends in deforestation, urban expansion, water body outlines/quality, and desertification
-2. Climate Precipitation Data from CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations
- ( 20 years): Data on rainfall patterns to understand how changing climate conditions contribute to land degradation, water quality issues, and agricultural challenges.
-3. Administrative Boundaries: Geospatial data on national and sub-national boundaries to help localize trends and identify regions most affected by land-use changes.
-4. WorldPop gridded population estimate: Information on population density to assess the relationship between human activity and environmental degradation
-5. Road Network Data: Insights into the role of infrastructure development in driving deforestation and changes in land use.
+2. [Climate Precipitation Data from CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations
+ ( 20 years)](https://www.chc.ucsb.edu/data/chirps): Data on rainfall patterns to understand how changing climate conditions contribute to land degradation, water quality issues, and agricultural challenges.
+3. [Administrative Boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/): Geospatial data on national and sub-national boundaries to help localize trends and identify regions most affected by land-use changes.
+4. [WorldPop gridded population estimate](https://www.worldpop.org/methods/populations/): Information on population density to assess the relationship between human activity and environmental degradation
+5. [Road Network Data](https://portal-mainroads.opendata.arcgis.com/datasets/mainroads::road-network/about): Insights into the role of infrastructure development in driving deforestation and changes in land use.
+
+*In the hack a section of the data has been clipped and processed. The following link has a read me document describing the clipped data: [Link to the data](https://drive.google.com/drive/folders/1XRiarmgVx5inxudR9K-LM6xpX6IDfiMx?usp=sharing)* As a back up the data will also be available in flashdrives in case the hackers are not able to download the data. 
+
 
 ## <p align="center"> Expected Outcome: </p>
 
@@ -43,22 +46,22 @@ By the end of the hackathon, participants will produce a range of actionable ins
 
 
 ## <p align="center"> The Pitch: </p>
-[Link to the video pitch]
+[Link to the video pitch](https://youtu.be/BYJe7MZKumM)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center">  </p>
 
 ## <p align="center"> Judging Criteria: </p>
-Judgment criteria are important for the participants to understand the focus of the case. You could either focus more on the technical aspect (coding and programming), on the business aspect (product fitting in the market), or it can be both. Please also add the weighted criteria.
-Creativity (30%)
-Visual design (20%)
-User friendly  (20%)
-Use of the data provided  (20%)
-Use of Additional data along with proper storytelling (10%)
+Judgment criteria are important for the participants to understand the focus of the case. *You could either focus more on the technical aspect (coding and programming), on the business aspect (product fitting in the market), or it can be both*. Please also add the weighted criteria: 
+1. Creativity (20%)
+2. Visual design (20%)
+3. User friendly  (20%)
+4. Use of the data provided  (20%)
+5. Use of Additional data along with proper storytelling (20%)
 
 ## <p align="center"> Point of Contact: </p>
 Devashree Niraula (dnniraula@unccd.int) , Research and Outreach Specialist, G20  G20 Global Land Initiative, UN Convention to Combat Desertification and Ebenezer Odoi (eodoi@unccd.int), Consultant, G20  G20 Global Land Initiative, UN Convention to Combat Desertification. 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
-DJI Mini 4K Drones and a trip to GLI sponsored international event 
+DJI Mini 4K Drones and a trip to a sponsored United Nations international event 
