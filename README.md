@@ -33,6 +33,12 @@ The hackathon invites participants to harness the power of global Earth observat
 3. How can Earth observation data—combined with scientific insights, technological innovations, and social understanding—help address land and water conflicts, identify land degradation, uncover restoration opportunities, and inform sustainable land management strategies? Furthermore, how can this integrated approach bolster global initiatives like the G20 Global Land Restoration Initiative, empower local communities, and provide a replicable framework for other regions facing comparable challenges?
 4. How can dashboard solutions be leveraged to visualize land cover changes and assess their impact on ecosystem health, helping stakeholders make informed decisions?
 
+**Project Draft Submittion**
+The hackers are to sumit the following in the half project submittion (on 20th March at 14:00). *Upload a one pager doc or a pptx file in GitHub* : 
+1. Approach 
+2. Expected outcomes 
+3. Methodology used thus far
+
 **What is the expected final product?**
 The hackathon offers an opportunity for participants to contribute to global land restoration efforts using cutting-edge data science and environmental research. Their insights could support sustainable land management, and drive positive environmental change on a global scale. *The hackers will choose a stakeholder of their choice to pitch a scalable solution to restore land in the Sahel*. These stakeholders can be policymakers, private institutes, insurance agencies, public sector, reserchers or/and communities. The product is to be userfriendly, easy to understand. 
 
@@ -50,7 +56,7 @@ By the end of the hackathon, participants will produce a range of actionable ins
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center">  </p>
+[Link to the Deep Dive](https://docs.google.com/presentation/d/1KCdoG9Qjd-WNsMcoMso_vlU0U3_kLvbt/edit?usp=sharing&ouid=105658638308319283063&rtpof=true&sd=true) 
 
 ## <p align="center"> Judging Criteria: </p>
 Judgment criteria are important for the participants to understand the focus of the case. *You could either focus more on the technical aspect (coding and programming), on the business aspect (product fitting in the market), or it can be both*. Please also add the weighted criteria: 
