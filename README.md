@@ -13,7 +13,9 @@ We utilize satellite imagery and climate data to create a risk assessment dashbo
 
 ## Key Features
 ✅ Risk Visualization Dashboard – Interactive map displaying high-risk zones.
+
 ✅ Insurance Risk Profiles – Data-driven insights to support risk assessment.
+
 ✅ Land Degradation Analysis – Trends and insights to promote resilience.
 
 ## Methodology
