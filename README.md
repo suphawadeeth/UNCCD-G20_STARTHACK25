@@ -1,8 +1,10 @@
 # **Challenge Setter: UNCCD & G20 Global Land Initiative**  
 ## **Sustainable Land Management and Restoration in the Sahel**  
 
-### **Note**  
-- [Draft Project Submission](https://docs.google.com/document/d/1iaRqgNmD3w2Ojq2UBqUM5K4QYVadbyZqg1DRbO_yDdI/edit?usp=sharing)
+# Land Degradation Risk Dashboard
+
+## Project Status: Prototype First Draft
+This project is currently in the **prototype** stage. The app showcases the core features for visualizing land degradation risks but is not yet fully functional due to system limitations. It is a work-in-progress, and improvements are ongoing.
 
 ## **Team: VII Technologies**  
 **Slogan**: VII Technologies | Innovate For Future
