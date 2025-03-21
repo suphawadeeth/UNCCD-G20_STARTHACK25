@@ -5,6 +5,7 @@
 - [Draft Project Submission](https://docs.google.com/document/d/1iaRqgNmD3w2Ojq2UBqUM5K4QYVadbyZqg1DRbO_yDdI/edit?usp=sharing)
 
 ## **Team: VII Technologies**  
+**Slogan**: VII Technologies | Innovate For Future
 ### **Members:**  
 - Gerhardt Lutterodt  
 - Suphawadee Bunthot  
